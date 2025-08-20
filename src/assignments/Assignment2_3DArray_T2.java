@@ -1,6 +1,6 @@
 package assignments;
 
-public class Assignment2_3DArray_T1  {
+public class Assignment2_3DArray_T2  {
 
 //	1. Create a 3D array to represent the following data:
 //	o Semesters as the first dimension.

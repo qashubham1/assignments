@@ -1,6 +1,6 @@
  package assignments;
 
-public class Assignment_DataType1 {
+public class Assignment1_DataTypes {
 
 	public static void main(String[] args) {
 //		1. Temperature of a city in degrees Celsius: 25.5
@@ -12,7 +12,7 @@ public class Assignment_DataType1 {
 		System.out.println("Whether a customer has placed an order: " + orderPlaced );
 
 //		3. Person's phone number: "123-456-7890"
-		int phoneNumber = 123-456-7890;
+		String phoneNumber = "123-456-7890";
 		System.out.println("Person's phone number:" + phoneNumber );
 		
 //		4. Amount of money in a customer's bank account: 1000.50
@@ -46,12 +46,12 @@ public class Assignment_DataType1 {
 		System.out.println("Current year: "+ year);
 		
 //		11.Number of followers on a social media platform: 1,000,000
-		int followers = 1000000;
+		String followers = "1,000,000";
 		System.out.println("Number of followers on a social media platform: "+ followers);
 		
 //		12.Rating of a movie: 7.5
 		double rating = 7.5;
-		System.out.println("Current year: "+ year);		
+		System.out.println("Rating of movie:  "+ rating);		
 		
 //		13.Person's blood type: 'A'
 		char bloodGroup = 'A';
